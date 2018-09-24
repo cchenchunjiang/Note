@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="全部"
+        android:id="@+id/all"
+        />
+    <item android:title="查找"
+        android:id="@+id/seek"
+        />
+    <item android:title="帮助"
+        android:id="@+id/help"
+        />
+</menu>

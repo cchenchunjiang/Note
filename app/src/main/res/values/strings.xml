@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="title_video">视频</string>
+    <string name="title_music">音乐</string>
+    <string name="title_picture">图片</string>
+    <string name="title_text">文字</string>
+</resources>

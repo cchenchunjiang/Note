@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="videos" path="/Note/video/" />
+    <external-path name="pictures" path="/Note/picture/" />
+    <external-path name="musics" path="/Note/music/" />
+    <external-path name="texts" path="/Note/text/" />
+</paths>

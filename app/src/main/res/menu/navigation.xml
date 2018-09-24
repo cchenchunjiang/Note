@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   >
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/ic_dashboard_video_24dp"
+        android:title="@string/title_video"
+        />
+    <item
+        android:id="@+id/navigation_picture"
+        android:icon="@drawable/ic_dashboard_picture_24dp"
+        android:title="@string/title_picture"
+        />
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_dashboard_new_24dp"
+        android:title="新建"
+        />
+    <item
+        android:id="@+id/navigation_music"
+        android:icon="@drawable/ic_dashboard_music_24dp"
+        android:title="@string/title_music"
+        />
+
+    <item
+        android:id="@+id/navigation_text"
+        android:icon="@drawable/ic_dashboard_text_24dp"
+        android:title="@string/title_text"
+        />
+
+</menu>
